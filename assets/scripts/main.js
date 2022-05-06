@@ -1,0 +1,1 @@
+window.location.href='https://www.youtube.com/channel/UCgU4T86Wr_pZwateFdAKoGQ/'
